@@ -15,11 +15,13 @@ __this application is under development__
 
 
 **Tech stack used**
+
 => For front-end I used **react,redux-toolkit,material-ui and vite** build tool.
 => For back-end I used **express.js, node.js and mongodb**.
 => For deployment I used **vercel** serverless service.
 
 **setup back-end**
+
 => clone the repository, open it in vscode.
 => go to backend_express and update .env accordingly.
 
