@@ -26,28 +26,39 @@ __this application is under development__
 => go to backend_express and update .env accordingly.
 
 '''
-connection string
+----------------------------------------------------------------------------------------------------------------
+//connection string
+
 MONGO_URI=""
 
 
-Frontend URL (adjust if needed)
+//Frontend URL (adjust if needed)
+
 ORIGIN=""
 
-Email credentials for sending password resets and OTPs
+//Email credentials for sending password resets and OTPs
+
 EMAIL=""
+
 PASSWORD=""
 
-Token and cookie expiration settings
+//Token and cookie expiration settings
+
 LOGIN_TOKEN_EXPIRATION="30d"  # Days
+
 OTP_EXPIRATION_TIME="120000"  # Milliseconds
+
 PASSWORD_RESET_TOKEN_EXPIRATION="2m"  # Minutes
+
 COOKIE_EXPIRATION_DAYS="30"    # Days
 
-Secret key for jwt security
+//Secret key for jwt security
 SECRET_KEY=""
 
-Environment (production/development)
+//Environment (production/development)
 PRODUCTION="false" # Initially set to false for development
+
+-----------------------------------------------------------------
 '''
 
 => run **npm install**, then run **npm run start**.
