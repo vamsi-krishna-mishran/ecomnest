@@ -1,5 +1,6 @@
 
 **This is a ecommerce application that has below features.**
+
 __this application is under development__
 
 1. user can create account, login and email-verification.
