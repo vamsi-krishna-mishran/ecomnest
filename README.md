@@ -1,5 +1,5 @@
 
-**This is a ecommerce application that has below features.**
+#This is a ecommerce application that has below features.**
 
 _this application is under development_
 
@@ -14,7 +14,7 @@ _this application is under development_
 9. admin can updated products.
 
 
-**Tech stack used**
+#Tech stack used
 
 => For front-end I used **react,redux-toolkit,material-ui and vite** build tool.
 
@@ -23,7 +23,7 @@ _this application is under development_
 => For deployment I used **vercel** serverless service.
 
 
-**setup back-end**
+#setup back-end
 
 => clone the repository, open it in vscode.
 
@@ -69,7 +69,7 @@ PRODUCTION="false" # Initially set to false for development
 => run **npm install**, then run **npm run start**.
 
 
-**setup front-end**
+#setup front-end
 
 => go to frontend_react folder and open src/api/base.js file and update backend URI.
 
