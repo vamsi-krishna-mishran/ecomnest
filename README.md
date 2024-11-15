@@ -56,6 +56,7 @@ COOKIE_EXPIRATION_DAYS="30"    # Days
 SECRET_KEY=""
 
 //Environment (production/development)
+
 PRODUCTION="false" # Initially set to false for development
 
 -----------------------------------------------------------------
@@ -65,6 +66,8 @@ PRODUCTION="false" # Initially set to false for development
 
 
 **setup front-end**
+
 => go to frontend_react folder and open src/api/base.js file and update backend URI.
+
 => run **npm install**, then run **npm run start**
 
